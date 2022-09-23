@@ -1,0 +1,847 @@
+{
+    "characters": [
+        {
+            "game_key": "awakening",
+            "key": "chrom",
+            "name": "Chrom",
+            "possible_partner_keys": [
+                "robinf",
+                "sully",
+                "sumia",
+                "maribelle",
+                "olivia"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "robinm",
+            "name": "Robin(m)",
+            "possible_partner_keys": [
+                "lissa",
+                "sully",
+                "miriel",
+                "sumia",
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "robinf",
+            "name": "Robin(f)",
+            "possible_partner_keys": [
+                "frederick",
+                "virion",
+                "stahl",
+                "vaike",
+                "kellam",
+                "donnel",
+                "lonqu",
+                "ricken",
+                "gaius",
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "lissa",
+            "name": "Lissa",
+            "possible_partner_keys": [
+                "frederick",
+                "virion",
+                "stahl",
+                "vaike",
+                "kellam",
+                "donnel",
+                "lonqu",
+                "ricken",
+                "gaius",
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "frederick",
+            "name": "Frederick",
+            "possible_partner_keys": [
+                "sully",
+                "miriel",
+                "sumia",
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "sully",
+            "name": "Sully",
+            "possible_partner_keys": [
+                "virion",
+                "stahl",
+                "vaike",
+                "kellam",
+                "donnel",
+                "lonqu",
+                "ricken",
+                "gaius",
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "virion",
+            "name": "Virion",
+            "possible_partner_keys": [
+                "miriel",
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "stahl",
+            "name": "Stahl",
+            "possible_partner_keys": [
+                "miriel",
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "vaike",
+            "name": "Vaike",
+            "possible_partner_keys": [
+                "miriel",
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "miriel",
+            "name": "Miriel",
+            "possible_partner_keys": [
+                "kellam",
+                "donnel",
+                "lonqu",
+                "ricken",
+                "gaius",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "sumia",
+            "name": "Sumia",
+            "possible_partner_keys": [
+                "gaius",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "kellam",
+            "name": "Kellam",
+            "possible_partner_keys": [
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "donnel",
+            "name": "Donnel",
+            "possible_partner_keys": [
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "lonqu",
+            "name": "Lon'qu",
+            "possible_partner_keys": [
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "ricken",
+            "name": "Ricken",
+            "possible_partner_keys": [
+                "maribelle",
+                "panne",
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "maribelle",
+            "name": "Maribelle",
+            "possible_partner_keys": [
+                "gaius",
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "panne",
+            "name": "Panne",
+            "possible_partner_keys": [
+                "gaius",
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "gaius",
+            "name": "Gaius",
+            "possible_partner_keys": [
+                "cordelia",
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "cordelia",
+            "name": "Cordelia",
+            "possible_partner_keys": [
+                "gregor",
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "gregor",
+            "name": "Gregor",
+            "possible_partner_keys": [
+                "nowi",
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "nowi",
+            "name": "Nowi",
+            "possible_partner_keys": [
+                "libra",
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "libra",
+            "name": "Libra",
+            "possible_partner_keys": [
+                "tharja",
+                "olivia",
+                "cherche"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "tharja",
+            "name": "Tharja",
+            "possible_partner_keys": [
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "olivia",
+            "name": "Olivia",
+            "possible_partner_keys": [
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "cherche",
+            "name": "Cherche",
+            "possible_partner_keys": [
+                "henry"
+            ]
+        },
+        {
+            "game_key": "awakening",
+            "key": "henry",
+            "name": "Henry",
+            "possible_partner_keys": []
+        },
+        {
+            "game_key": "test",
+            "key": "apple",
+            "name": "Apple",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "boysenberry",
+                "cherry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "apricot",
+            "name": "Apricot",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "avocado",
+            "name": "Avocado",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "banana",
+            "name": "Banana",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "blackberry",
+            "name": "Blackberry",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "blueberry",
+            "name": "Blueberry",
+            "possible_partner_keys": [
+                "apricot",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "boysenberry",
+            "name": "Boysenberry",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "date",
+                "fig",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "cherry",
+            "name": "Cherry",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "date",
+                "fig",
+                "grape",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "cranberry",
+            "name": "Cranberry",
+            "possible_partner_keys": [
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "currant",
+            "name": "Currant",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "date",
+            "name": "Date",
+            "possible_partner_keys": [
+                "apple",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "fig",
+            "name": "Fig",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "grape",
+            "name": "Grape",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "grapefruit",
+            "name": "Grapefruit",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "boysenberry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "guava",
+            "name": "Guava",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "lemon",
+            "name": "Lemon",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "lime",
+            "name": "Lime",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "mango",
+            "name": "Mango",
+            "possible_partner_keys": [
+                "apricot",
+                "avocado",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "raisin",
+            "name": "Raisin",
+            "possible_partner_keys": [
+                "apple",
+                "apricot",
+                "banana",
+                "blackberry",
+                "blueberry",
+                "boysenberry",
+                "cherry",
+                "currant",
+                "date",
+                "grape",
+                "grapefruit",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        },
+        {
+            "game_key": "test",
+            "key": "uglifruit",
+            "name": "Ugli Fruit",
+            "possible_partner_keys": [
+                "apple",
+                "avocado",
+                "banana",
+                "blackberry",
+                "boysenberry",
+                "cherry",
+                "cranberry",
+                "currant",
+                "date",
+                "fig",
+                "grape",
+                "grapefruit",
+                "guava",
+                "lemon",
+                "lime",
+                "mango",
+                "raisin",
+                "uglifruit"
+            ]
+        }
+    ],
+    "games": [
+        {
+            "is_implemented": false,
+            "key": "awakening",
+            "name": "Fire Emblem Awakening"
+        },
+        {
+            "is_implemented": true,
+            "key": "test",
+            "name": "Test Data"
+        }
+    ]
+}

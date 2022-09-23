@@ -1,0 +1,1 @@
+export const MAX_UNMATCHED_CHARACTERS = 20;
