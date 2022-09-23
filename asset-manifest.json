@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://deepconcern.github.io/fe-tumblrbot/static/css/main.e6c13ad2.css",
-    "main.js": "https://deepconcern.github.io/fe-tumblrbot/static/js/main.32e0a682.js",
+    "main.js": "https://deepconcern.github.io/fe-tumblrbot/static/js/main.19b7723b.js",
     "static/js/787.06b09f7c.chunk.js": "https://deepconcern.github.io/fe-tumblrbot/static/js/787.06b09f7c.chunk.js",
     "index.html": "https://deepconcern.github.io/fe-tumblrbot/index.html",
     "main.e6c13ad2.css.map": "https://deepconcern.github.io/fe-tumblrbot/static/css/main.e6c13ad2.css.map",
-    "main.32e0a682.js.map": "https://deepconcern.github.io/fe-tumblrbot/static/js/main.32e0a682.js.map",
+    "main.19b7723b.js.map": "https://deepconcern.github.io/fe-tumblrbot/static/js/main.19b7723b.js.map",
     "787.06b09f7c.chunk.js.map": "https://deepconcern.github.io/fe-tumblrbot/static/js/787.06b09f7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.32e0a682.js"
+    "static/js/main.19b7723b.js"
   ]
 }
